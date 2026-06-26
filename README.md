@@ -73,4 +73,4 @@ These require C, assembly, or serious math — but they'll level you up like not
 
 PRs welcome! Open an issue or submit a pull request to add new resources.
 
-This repo is based on the amazing work by [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) and its many contributors, reorganized and enhanced for a friendlier learning experience.
+from DAD to another DAD in one time.
